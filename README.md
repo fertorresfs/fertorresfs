@@ -42,20 +42,11 @@
 <br/>
 
 ### Linguagens de programação que você pode encontrar em meus repositórios:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fertorresfs&hide_progress=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fertorresfs&hide_progress=true&theme=dark)
 
 ### Últimos artigos
 
 - [Artigos Linkedin](https://www.linkedin.com/in/fertorresfs/recent-activity/articles/)<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fertorresfs&show_icons=true&theme=onedark)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fertorresfs&show_icons=true&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fertorresfs&show_icons=true&theme=radical) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fertorresfs&show_icons=true&theme=merko) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fertorresfs&show_icons=true&theme=gruvbox) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fertorresfs&show_icons=true&theme=tokyonight) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fertorresfs&show_icons=true&theme=onedark) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fertorresfs&show_icons=true&theme=cobalt) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fertorresfs&show_icons=true&theme=synthwave) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fertorresfs&show_icons=true&theme=highcontrast) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fertorresfs&show_icons=true&theme=dracula)
