@@ -42,10 +42,10 @@
 <br/>
 
 ### Linguagens de programação que você pode encontrar em meus repositórios:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fertorresf&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fertorresfs&hide_progress=true)
 
 ### Últimos artigos
 
 - [Artigos Linkedin](https://www.linkedin.com/in/fertorresfs/recent-activity/articles/)<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fertorresf&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fertorresfs&show_icons=true&theme=radical)
