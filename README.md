@@ -38,6 +38,7 @@
   <img align="center" alt="Python" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs"/>
 </div>
 <br/>
 
