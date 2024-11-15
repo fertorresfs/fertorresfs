@@ -4,6 +4,8 @@ Cientista de Dados e Perito Judicial.
 
 [![Imagem do perfil](https://media.licdn.com/dms/image/v2/D4D03AQFT1eooOtMQ_A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711856059813?e=1736985600&v=beta&t=3TUSwO3IvojRuHITfBYCj__1DsO1JbJnKalZHwAFSys)](https://github.com/fertorresfs)
 
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQFT1eooOtMQ_A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711856059813?e=1736985600&v=beta&t=3TUSwO3IvojRuHITfBYCj__1DsO1JbJnKalZHwAFSys" width="150" height="150">
+
 Entre em contato:
 
 [![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/fertorresf)
