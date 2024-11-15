@@ -22,8 +22,7 @@ Entre em contato:
 ## Cloud Platforms
                                                                             
 | Plataforma                                                                                  |
-|------------------------------------------------------------------------------------
-|
+|------------------------------------------------------------------------------------|
 |  [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)<br> |
 |  [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)<br> |
 |  [![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)<br> |
