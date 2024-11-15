@@ -2,7 +2,7 @@
 
 Cientista de Dados e Perito Judicial.
 
-[![Imagem do perfil](https://media.licdn.com/dms/image/v2/D4D03AQFT1eooOtMQ_A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711856059813?e=1736985600&v=beta&t=3TUSwO3IvojRuHITfBYCj__1DsO1JbJnKalZHwAFSys)]([url](https://github.com/fertorresfs))
+[![Imagem do perfil](<img src="https://media.licdn.com/dms/image/v2/D4D03AQFT1eooOtMQ_A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711856059813?e=1736985600&v=beta&t=3TUSwO3IvojRuHITfBYCj__1DsO1JbJnKalZHwAFSys" width="150" height="150")]([url](https://github.com/fertorresfs))
 
 Entre em contato:
 
@@ -21,7 +21,7 @@ Entre em contato:
 [![Yutube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fertorresfs)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/14998223377)
 
-### Aqui estão algumas tecnologias que eu conheço, que eu utilizo ou que já utilizei:
+### Tecnologias:
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -51,7 +51,7 @@ Entre em contato:
 </div>
 <br/>
 
-### Linguagens de programação que você pode encontrar em meus repositórios:
+### Linguagens de Programação:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fertorresfs&hide_progress=true&theme=dark)
 
 ### Últimos artigos
