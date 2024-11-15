@@ -2,7 +2,6 @@
 
 Cientista de Dados e Perito Judicial.
 
-[![Imagem do perfil](https://media.licdn.com/dms/image/v2/D4D03AQFT1eooOtMQ_A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711856059813?e=1736985600&v=beta&t=3TUSwO3IvojRuHITfBYCj__1DsO1JbJnKalZHwAFSys)](https://github.com/fertorresfs)
 [<img src="https://media.licdn.com/dms/image/v2/D4D03AQFT1eooOtMQ_A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711856059813?e=1736985600&v=beta&t=3TUSwO3IvojRuHITfBYCj__1DsO1JbJnKalZHwAFSys" width="150" height="150">](https://github.com/fertorresfs)
 
 Entre em contato:
@@ -21,6 +20,17 @@ Entre em contato:
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/fertorresfs/)
 [![Yutube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fertorresfs)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/14998223377)
+
+
+| Plataforma     | Link                                                                     | Plataforma     | Link                                                                         |
+|-----------------|-----------------------------------------------------------------------------|-----------------|-------------------------------------------------------------------------------|
+| Dev.to         | [![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/fertorresfs) | GitHub         | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fertorresfs) |
+| GitLab         | [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/fertorresfs) | Gmail           | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phertorrez@gmail.com)       |
+| LinkedIn       | [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fertorresfs/) | Medium          | [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fertorresfs)     |
+| Outlook        | [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:fernando-torres@live.com) | Telegram        | [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5514998223377)   |
+| Twitch         | [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/fertorresfs) | Twitter         | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/fertorresfs)      |
+| Kaggle         | [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/fertorresfs/) | YouTube         | [![Yutube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fertorresfs) |
+| WhatsApp       | [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/14998223377) |                  |                                                                               |
 
 ### Tecnologias:
 
