@@ -1,4 +1,11 @@
-# Olá, eu sou Fernando Torres Ferreira (fertorresfs), sou Cientista de Dados e atuo também como Perito Judicial, entre em contato comigo:
+# Fernando Torres Ferreira (fertorresfs)
+
+Cientista de Dados e Perito Judicial.
+
+[![Imagem do perfil](https://media.licdn.com/dms/image/v2/D4D03AQFT1eooOtMQ_A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711856059813?e=1736985600&v=beta&t=3TUSwO3IvojRuHITfBYCj__1DsO1JbJnKalZHwAFSys)]([url](https://github.com/fertorresfs))
+
+Entre em contato:
+
 [![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/fertorresf)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fertorresf)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fertorresfs)
