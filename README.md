@@ -62,3 +62,13 @@ Entre em contato:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fertorresfs&show_icons=true&theme=dark)
+
+Apaixonado por Ciência de Dados? Junte-se ao nosso servidor no Discord! Oferecemos um espaço dedicado para:
+
+- Discussões: Troque ideias, tire dúvidas e aprenda com outros membros.
+- Recursos: Acesse artigos, tutoriais, datasets e ferramentas úteis.
+- Projetos: Colabore em projetos open-source e desenvolva seu portfólio.
+- Networking: Conecte-se com outros profissionais e entusiastas da área.
+- Eventos: Fique por dentro de meetups, workshops e webinars.
+
+Entre agora e faça parte da nossa comunidade! https://discord.gg/7HhwtwhW
