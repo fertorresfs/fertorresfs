@@ -19,6 +19,7 @@ Entre em contato:
 |[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/fernandotfs)<br> | |
 | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/fernandotfs)<br> | |
 | [![GitHub 2](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fertorresf)<br>| |
+| [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://img.shields.io/discord/:1307186050996899881)<br>| |
 
 ### Tecnologias:
 
@@ -71,4 +72,4 @@ Apaixonado por Ciência de Dados? Junte-se ao nosso servidor no Discord! Oferece
 - Networking: Conecte-se com outros profissionais e entusiastas da área.
 - Eventos: Fique por dentro de meetups, workshops e webinars.
 
-Entre agora e faça parte da nossa comunidade! https://discord.gg/63mawE2x
+Entre agora e faça parte da nossa comunidade! [https://discord.gg/63mawE2x](https://discord.gg/63mawE2x)
