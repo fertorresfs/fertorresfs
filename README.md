@@ -72,4 +72,4 @@ Apaixonado por Ciência de Dados? Junte-se ao nosso servidor no Discord! Oferece
 - Networking: Conecte-se com outros profissionais e entusiastas da área.
 - Eventos: Fique por dentro de meetups, workshops e webinars.
 
-Entre agora e faça parte da nossa comunidade! [https://discord.gg/63mawE2x](https://discord.gg/63mawE2x)
+Entre agora e faça parte da nossa comunidade! [https://discord.gg/PbkrFZk5e3](https://discord.gg/PbkrFZk5e3)
