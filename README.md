@@ -1,10 +1,10 @@
 # Fernando Torres Ferreira da Silva (fertorresfs)
 
-<p>Graduação em Banco de Dados - FATEC - 2016.</p>
-<p>Graduação em Ciência de Dados - UNIVESP - 2026.<p/>
-<p>Pós-graduação em Ciência de Dados - METROPOLITANA - 2024.</p>
-<p>Pós-graduação em Mineração de Dados - METROPOLITANA - 2024.</p>
-<p>Mestrado em Ciência da Computação e Matemática Computacional - USP ICMC - 2026.</p>
+- Graduação em Banco de Dados - FATEC - 2016.
+- Graduação em Ciência de Dados - UNIVESP - 2026.
+- Pós-graduação em Ciência de Dados - METROPOLITANA - 2024.
+- Pós-graduação em Mineração de Dados - METROPOLITANA - 2024.
+- Mestrado em Ciência da Computação e Matemática Computacional - USP ICMC - 2026.
 
 [<img src="https://media.licdn.com/dms/image/v2/D4D03AQFT1eooOtMQ_A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1711856059813?e=1750896000&v=beta&t=QA9Hk1qWfX4wrsHaD6j4zp-iuy0wapRDkm4x_zMEZdk" width="150" height="150">](https://github.com/fertorresfs)
 
