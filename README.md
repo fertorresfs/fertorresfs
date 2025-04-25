@@ -2,7 +2,7 @@
 
 Cientista de Dados.
 
-[<img src="https://drive.google.com/file/d/1pXgR8UPAihCABOl-WgSn7t8DrduqKP8Z/view?usp=drive_link" width="150" height="150">](https://github.com/fertorresfs)
+[<img src="https://media.licdn.com/dms/image/v2/D4D03AQFT1eooOtMQ_A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1711856059813?e=1750896000&v=beta&t=QA9Hk1qWfX4wrsHaD6j4zp-iuy0wapRDkm4x_zMEZdk" width="150" height="150">](https://github.com/fertorresfs)
 
 Entre em contato:
 
