@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  <b>Data Scientist | Forensic Expert | Researcher</b>
+  Senior Data Scientist | MSc Student at USP (NLP/AI) | Turning chaotic data into forensic evidence & business intelligence.
 </p>
 
 <p align="center">
