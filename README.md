@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.tfzintelligence.com" target="_blank">🌐 TFZ Intelligence</a> • 
+  <a href="https://www.tfzintelligence.com.br" target="_blank">🌐 TFZ Intelligence</a> • 
   <a href="https://datascienceenthusiasts.com.br" target="_blank">🚀 Data Science Enthusiasts</a>
 </p>
 
