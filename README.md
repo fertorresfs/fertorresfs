@@ -86,11 +86,14 @@
 ### ⭐ Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/fertorresfs/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fertorresfs&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Projeto 1">
+  <a href="https://github.com/fertorresfs/legal-rag-assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fertorresfs&repo=rag-assistant&theme=tokyonight&hide_border=true" alt="RAG Assistant">
   </a>
-  <a href="https://github.com/fertorresfs/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fertorresfs&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Projeto 2">
+  <a href="https://github.com/fertorresfs/forensic-document-auditor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fertorresfs&repo=forensic-document-auditor&theme=tokyonight&hide_border=true" alt="Forensic Document Auditor">
+  </a>
+  <a href="https://github.com/fertorresfs/transactional-fraud-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fertorresfs&repo=transactional-fraud-detection&theme=tokyonight&hide_border=true" alt="Transactional Fraud Detection">
   </a>
 </div>
 
