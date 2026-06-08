@@ -1,5 +1,9 @@
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
   <a href="https://github.com/fertorresfs">
     <img src="https://github-readme-stats.vercel.app/api?username=fertorresfs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas de Fernando" />
   </a>
