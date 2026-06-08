@@ -86,7 +86,7 @@
 ### ⭐ Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/fertorresfs/legal-rag-assistant" target="_blank">
+  <a href="https://github.com/fertorresfs/rag-assistant" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fertorresfs&repo=rag-assistant&theme=tokyonight&hide_border=true" alt="Legal RAG Assistant">
   </a>
   <a href="https://github.com/fertorresfs/forensic-document-auditor" target="_blank">
