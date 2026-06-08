@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/fertorresfs">
-    <img src="https://github-readme-stats.vercel.app/api?username=fertorresfs&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Estatísticas de Fernando" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fertorresfs&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&v=1" alt="Estatísticas de Fernando" />
   </a>
   <a href="https://github.com/fertorresfs">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fertorresfs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fertorresfs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&v=1" alt="Linguagens mais usadas" />
   </a>
 </div>
 
