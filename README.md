@@ -87,13 +87,15 @@
 
 <div align="center">
   <a href="https://github.com/fertorresfs/rag-assistant" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fertorresfs&repo=rag-assistant&theme=tokyonight&hide_border=true&v=1" alt="Legal RAG Assistant">
+    <img src="https://gh-card.dev/repos/fertorresfs/rag-assistant.svg" alt="Legal RAG Assistant">
   </a>
+  <br><br>
   <a href="https://github.com/fertorresfs/forensic-document-auditor" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fertorresfs&repo=forensic-document-auditor&theme=tokyonight&hide_border=true&v=1" alt="Forensic Document Auditor">
+    <img src="https://gh-card.dev/repos/fertorresfs/forensic-document-auditor.svg" alt="Forensic Document Auditor">
   </a>
+  <br><br>
   <a href="https://github.com/fertorresfs/transactional-fraud-detection" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fertorresfs&repo=transactional-fraud-detection&theme=tokyonight&hide_border=true&v=1" alt="Transactional Fraud Detection">
+    <img src="https://gh-card.dev/repos/fertorresfs/transactional-fraud-detection.svg" alt="Transactional Fraud Detection">
   </a>
 </div>
 
