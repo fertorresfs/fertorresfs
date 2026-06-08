@@ -7,6 +7,10 @@
   </a>
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fertorresfs&label=Visualizações+do+Perfil&color=0077B5&style=flat-square" alt="Contador de Visitas" />
+</p>
+
 <div align="center">
   <h1>
     <a href="https://git.io/typing-svg">
@@ -103,10 +107,18 @@
 
 ### 🎓 Formação Acadêmica & Expertise
 
+- 👨‍🏫 **Facilitador & Tutor (Projeto Integrador)** - UNIVESP
 - 🏛️ **Mestrado em Ciências da Computação (NLP/IA)** - USP ICMC (Em andamento)
 - ⚖️ **Especialista em Direito Digital & Forense** - (Foco em Perícia Judicial)
 - 💼 **MBA em Gestão Empresarial e Negócios** - Estratego
 - 💾 **Tecnólogo em Banco de Dados** - FATEC SP
+
+---
+
+### 📚 Pesquisa & Artigos Recentes
+
+- 📄 **[Nome do seu Artigo de IoT/NLP]** - Breve descrição do impacto da pesquisa (ex: Pipeline híbrido com LoRA). (Breve)
+- 🔬 **Investigação Forense e NLP** - [Link para onde você publica seus achados ou dissertação]. (Breve)
 
 ---
 
