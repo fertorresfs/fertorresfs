@@ -90,7 +90,7 @@
 ### ⭐ Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/fertorresfs/rag-assistant" target="_blank">
+  <a href="https://github.com/fertorresfs/legal-rag-assistant" target="_blank">
     <img src="https://gh-card.dev/repos/fertorresfs/rag-assistant.svg" alt="Legal RAG Assistant">
   </a>
   <br><br>
